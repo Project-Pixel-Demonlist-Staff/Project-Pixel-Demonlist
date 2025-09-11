@@ -6,22 +6,42 @@
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "amethyst",
+        "link": "https://www.youtube.com/@amethyyystyo"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "admin",
+        "name": "Eveflower",
+        "link": "https://www.youtube.com/@nwodt"
+    },
+  {
+        "role": "admin",
+        "name": "HangryForCHIPPS",
+        "link": "https://www.youtube.com/@haydenplayz9557"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "admin",
+        "name": "leiahtonic",
+        "link": "https://www.youtube.com/@prismic_"
+    },
+    {
+        "role": "admin",
+        "name": "nebnoob",
+        "link": "https://www.youtube.com/@nebnoobgeometrydash1524"
+    },
+    {
+        "role": "admin",
+        "name": "Outense",
+        "link": "https://www.youtube.com/@Outense"
+    },
+    {
+        "role": "admin",
+        "name": "TriangulumGMD",
+        "link": "https://www.youtube.com/@TriangulumGMD"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Jacobest",
+        "link": "https://www.youtube.com/@jacobestgaming"
     }
 ]
